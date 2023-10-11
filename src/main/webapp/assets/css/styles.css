@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+.bg-main{
+	background-color: rgb(12, 38, 71);
+}
+
+
+.bg-box{
+	background-color: rgb(6, 27, 53);
+}
+
+
+.logo{
+	width: 50px;
+	height: 40px;
+	border-radius: 50%;
+}
